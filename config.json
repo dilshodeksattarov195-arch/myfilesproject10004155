@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "orderconnect",
+        "uuid": 28985280,
+        "checksum": "qnrjkg"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
